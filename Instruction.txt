@@ -1,0 +1,38 @@
+First off, Thank You for signing up for our event! Can't wait to see you there!
+
+Due to our campus's slow wifi, we ask if you can install the necessariy programs before the event! 
+(Docker takes about 18 minutes to download on campus!)
+
+First, Make a Docker Hub account. (Docker Hub is a registry of Docker images. You can think of the registry as a directory of all available Docker images.)
+http://mlhlocal.host/docker-hub
+
+
+Enter your email and choose a Docker ID and password for your account.  You’ll be asked to verify your email address before being able to log in though.
+
+Second Install Docker on your desktop.
+Mac:
+http://mlhlocal.host/docker-mac
+
+PC:
+http://mlhlocal.host/docker-windows
+
+Linux:
+http://mlhlocal.host/docker-linux
+
+Third, Install Node.js (Node.js is an environment that runs JavaScript code on the server-side.)
+
+Mac: 
+http://mlhlocal.host/node-mac
+
+PC:
+http://mlhlocal.host/node-pc
+
+Linux:
+http://mlhlocal.host/node-linux
+
+
+Fourth, Dowload the Zip file of the app. We will be going through this the day of. 
+http://mlhlocal.host/quorum-app
+
+
+Note there are more things we will be installing but we will do those the day of!
